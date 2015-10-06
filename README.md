@@ -5,10 +5,10 @@ At Kaliber we write code that is future proof. This is why we already implement 
 
 ### General reads and documentations
 
-Leanpub has a nice write up about [understanding ECMAScript 6](https://leanpub.com/understandinges6/read/).
-Babel has [a detailed overview of ECMAScript 6 features](https://babeljs.io/docs/learn-es2015/).
-Traceur made by Google got a great list of [language features](https://github.com/google/traceur-compiler/wiki/LanguageFeatures).
-[es6-features.org](https://es6-features.org) has wonderful examples of comparison between ECMAScript 5 and ECMAScript  6.
+* Leanpub has a nice write up about [understanding ECMAScript 6](https://leanpub.com/understandinges6/read/).
+* Babel has [a detailed overview of ECMAScript 6 features](https://babeljs.io/docs/learn-es2015/).
+* Traceur made by Google got a great list of [language features](https://github.com/google/traceur-compiler/wiki/LanguageFeatures).
+* [es6-features.org](https://es6-features.org) has wonderful examples of comparison between ECMAScript 5 and ECMAScript  6.
 
 ### In depth documentation
 Kyle Simpson has a series of books diving deep into the core mechanisms of the JavaScript language. Altough the content isn't written for ECMAScript 6, it is present.
@@ -29,8 +29,8 @@ As we write future proof code, we are also looking at the new proposed functiona
 * Stage 4: Finished
 
 ### General reads and documentations
-Babel has a nice write up about [how to use experimental ES7 features](http://babeljs.io/docs/usage/experimental/).
-[JSfeatures.in](http://jsfeatures.in/#ES7) has a nice collection of minimalistic examples.
+* Babel has a nice write up about [how to use experimental ES7 features](http://babeljs.io/docs/usage/experimental/).
+* [JSfeatures.in](http://jsfeatures.in/#ES7) has a nice collection of minimalistic examples.
 
 ## HTML
 *in progress*
